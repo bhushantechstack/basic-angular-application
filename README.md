@@ -36,3 +36,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 *`cd my-app`
 
 *`ng serve`
+
+## command to connect with local to github repo for the first time
+
+*`git remote add origin REMOTE-URL`
+*`git push origin main`
